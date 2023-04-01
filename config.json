@@ -15,6 +15,7 @@
         "LF_HIDBRUTE",
         "LF_HIDFCBRUTE",
         "LF_ICEHID",
+        "LF_NEDAP_SIM",
         "LF_PROXBRUTE",
         "LF_PROX2BRUTE",
         "LF_THAREXDE",
