@@ -8,6 +8,8 @@
         "HF_14ASNIFF",
         "HF_14BSNIFF",
         "LF_SAMYRUN",
+        "HF_REPLAY",
+        "HF_REBLAY",
         "LF_EM4100EMUL",
         "LF_EM4100RSWB",
         "LF_EM4100RSWW",
@@ -26,7 +28,6 @@
         "HF_ICECLASS",
         "HF_MATTYRUN",
         "HF_MSDSAL",
-        "HF_REPLAY",
         "HF_YOUNG",
         "HF_MFCSIM"
     ],
